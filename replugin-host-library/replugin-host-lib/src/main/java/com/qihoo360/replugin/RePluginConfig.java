@@ -124,7 +124,7 @@ public final class RePluginConfig {
     }
 
     /**
-     * 是否开启插件签名校验 
+     * 是否开启插件签名校验
      *
      * @return 是否开启
      */
